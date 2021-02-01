@@ -12,11 +12,13 @@
 
 ## Links
 
-#### Unity: [Unity Website]([Unity Real-Time Development Platform | 3D, 2D VR & AR Engine](https://unity.com/))
+#### Unity: [Unity Real-Time Development Platform | 3D, 2D VR & AR Engine](https://unity.com/)
 
 #### Vuforia: [Vuforia Developer Portal](https://developer.vuforia.com/)
 
-#### Lean Touch: [Unity Asset]([Lean Touch | Input Management | Unity Asset Store](https://assetstore.unity.com/packages/tools/input-management/lean-touch-30111))
+#### Lean Touch: [Lean Touch](https://assetstore.unity.com/packages/tools/input-management/lean-touch-30111)
+
+
 
 
 
