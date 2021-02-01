@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Ben_DHMarker" size="6.000000 3.150000" />
+    <ImageTarget name="GhostFreak" size="6.000000 4.500000" />
+    <ImageTarget name="ben10videomarker" size="6.000000 4.800000" />
+    <ImageTarget name="CannonBoltMarker" size="6.000000 4.798742" />
+    <ImageTarget name="GreyMatterMarker" size="6.000000 4.500000" />
+    <ImageTarget name="FourArmsMarker" size="6.000000 4.500000" />
+    <ImageTarget name="diamondhead" size="6.000000 3.377358" />
+  </Tracking>
+</QCARConfig>
