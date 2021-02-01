@@ -14,7 +14,7 @@
 
 #### Unity: [Unity Website]([Unity Real-Time Development Platform | 3D, 2D VR & AR Engine](https://unity.com/))
 
-#### Vuforia: [Developer Website]((https://developer.vuforia.com/))
+#### Vuforia: [Vuforia Developer Portal](https://developer.vuforia.com/)
 
 #### Lean Touch: [Unity Asset]([Lean Touch | Input Management | Unity Asset Store](https://assetstore.unity.com/packages/tools/input-management/lean-touch-30111))
 
